@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that creates an image according to a prompt, which is a text description. It takes an input named `prompt` which contains the image description and outputs an image.",
+  "name": "image_generator",
+  "tool_class": "text_to_image.TextToImageTool"
+}
